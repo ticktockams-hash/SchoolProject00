@@ -14,3 +14,7 @@ jhgjhgjgjhgjg<br>
 [google](http://www.google.com)
 
 [yahoo](http://tw.yahoo.com)
+
+[練習](exam.txt)
+
+[school技術文件](doc/index.html)
